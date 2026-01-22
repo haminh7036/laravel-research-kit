@@ -1,0 +1,11 @@
+{
+  "name": "haminh7036/laravel-research-kit",
+  "description": "Mini toolkit for research Laravel project",
+  "type": "library",
+  "autoload": {
+    "psr-4": {
+      "HaMinh7036\\": "src/"
+    }
+  },
+  "require": {}
+}
